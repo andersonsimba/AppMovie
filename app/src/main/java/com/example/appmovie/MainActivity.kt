@@ -12,7 +12,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-// Importación corregida con 'p' minúscula
+// Importación corregida con 'p' minúscula cabio en hithub
 import com.example.appmovie.ui.theme.AppMovieTheme
 
 class MainActivity : ComponentActivity() {
